@@ -1,5 +1,6 @@
 # Introduction
-run_analysis.R performs steps in order to combine and create a tidy data set only with subject, descriptive activity names and mean or standard deviation for each measurement
+	run_analysis.R performs steps in order to combine and create a tidy data set only with subject, descriptive activity names and mean or standard deviation for each measurement
+	
 	. select wanted features which is only the mean and standard deviation for each measurement
 	. load information of subject numbers and activity values for train and test data
 	. load values of measurement for train and test data and then select only desired features selected from step 1
